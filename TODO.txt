@@ -1,0 +1,79 @@
+TODO || Manual Labor || Coders
+(Non code tasks will be marked with ***)
+
+
+=================
+1.) display Page Loading symbol if images aren't loaded on front page
+=================
+4.) Robot's Record should display on sidebar of Robot page
+		- get record from Blue Alliance
+		- Ask Antonio
+=================
+***
+6.) Better/Real Frc 2590 graphic for the header
+		- see header.inc
+=================
+***
+8.) Research/Install best WIKI to host on our actual server to go hand in hand with the website
+		- email me a list of pros/cons for each one
+			- priority being readability, ease of organization, ability to match website visually
+			- check out the one for processing.org for a gold standard reference.
+		- the google site one is kinda wonky, (look into formatting?)
+=================
+***
+10.) Create Wiki (or Tutorial blog Post) page with all of the different templates, what they are used for
+		- include list of all "fields"/variables included with each template
+			- note whether they are mandatory or optional
+			- optional variables need to be checked for null before use
+================
+11.) Extra navigation on Blog page
+		-Monthly dropdown?
+		-Calendar?
+		-Seperate Archieve Page?
+		-Tumblr posts? 
+			- these should probably display here but where
+================
+12.) "Paging" for Blog page
+		- user should be able to click on "next" OR put in an "infinite scroll" script
+		- "Archive" should probably be its own template
+================
+16.) Need page to display all blog posts "tagged" with specific tag
+================
+18.) Sponsor page should list benefits for each level of donatorships
+		- donate button
+			- should go to paypal account (Ask mrs. wolfe/mr. meredith to set up)
+		-snail mail instructions need to be listed somewhere
+================
+20.) Create Community page (Impact)
+		- Discovery Day?
+		- Community Service
+================
+22.) Pull posts from the tumblr
+		- on tagged pages
+		- robot pages
+================
+25.) Tumblr Img on resource page should be in a slider 
+		- limit 10 most recent tumblr photo posts
+================
+26.) Grey barG div that heads the Robot and Member page looks stupid. 
+		- its the one that contains "Member, Alumni, Mentor"
+		- Think of better way to do header with Nav
+================
+27.) Tumblr Theme
+		- we need to either
+			1.) Write a theme for the tumblr that matches the website (header, sidebar, footer)
+			2.) Create a "tumblr" template and pull all of the posts into it.
+================
+***
+29.) Upload the rest of the Sponsors
+================
+***
+30.) Hunt down Alumni and get less horrible headshots
+
+================
+32.) Fix Tooltips on member page
+		- they should work with pure CSS solution used on resources page
+		- don't use the title field to eliminate double tooltip.
+
+================
+34.) Make all the reds the bumper color
